@@ -1,0 +1,12 @@
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\bin\Debug\Motor.exe.config
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\bin\Debug\Motor.exe
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\bin\Debug\Motor.pdb
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\MainWindow.baml
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\MainWindow.g.cs
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\App.g.cs
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\Motor_MarkupCompile.cache
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\Motor.g.resources
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\Motor.Properties.Resources.resources
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\Motor.csproj.GenerateResource.Cache
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\Motor.exe
+C:\Users\b0040\Documents\Visual Studio 2013\Projects\Motor\Motor\obj\Debug\Motor.pdb
