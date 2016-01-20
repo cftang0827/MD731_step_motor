@@ -22,3 +22,4 @@ C:\data\from old\Ultrasound Lab\MD731_step_motor\Motor\Motor\obj\Release\Motor_M
 C:\data\from old\Ultrasound Lab\MD731_step_motor\Motor\Motor\obj\Release\Motor.g.resources
 C:\data\from old\Ultrasound Lab\MD731_step_motor\Motor\Motor\obj\Release\Motor.Properties.Resources.resources
 C:\data\from old\Ultrasound Lab\MD731_step_motor\Motor\Motor\obj\Release\Motor.csproj.GenerateResource.Cache
+C:\data\from old\Ultrasound Lab\MD731_step_motor\Motor\Motor\obj\Release\Motor.csprojResolveAssemblyReference.cache
