@@ -21,7 +21,7 @@ void loop() {
   
   // put your main code here, to run repeatedly:
   char input = Serial.read(); // Get from serial port
-  int delayNum1 = 300; 
+  float delayNum1 = 40.344827; 
   switch(input)
   {
     case '1':
